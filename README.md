@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" style="border-radius:200px;" src="https://avatars.githubusercontent.com/u/35201179"  />
+  <img height="200" style="border-radius:150px;" src="https://raw.githubusercontent.com/Trickhish/Trickhish/refs/heads/main/tks_sep.png"  />
 </div>
 
 ###
