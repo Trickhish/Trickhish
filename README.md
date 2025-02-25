@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Trickhish&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trickhish&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Trickhish's GitHub Stats" />
 </div>
 
 ###
