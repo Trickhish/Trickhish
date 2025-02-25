@@ -22,6 +22,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trickhish&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Trickhish's GitHub Stats" />
+
+  [![GitHub Streak](https://ghstats.onuralpsezer.com?user=Trickhish&theme=dracula&hide_border=true&border_radius=6.3)](https://git.io/streak-stats)
 </div>
 
 ###
